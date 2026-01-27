@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         幕布目录
 // @namespace    http://tampermonkey.net/
-// @version      1.0.1
+// @version      1.0.0
 // @description  新增URL监听，切换文档时自动清空旧大纲，修复内容重叠问题
 // @author       Vachel
 // @match        https://mubu.com/*
 // @grant        none
-// @updateURL    https://github.com/lwqhhh/Mubu-Smart-Outline/raw/refs/heads/main/OutlineScript.user.js
-// @downloadURL  https://github.com/lwqhhh/Mubu-Smart-Outline/raw/refs/heads/main/OutlineScript.user.js
+// @updateURL    https://github.com/lwqhhh/Mubu-Smart-Outline/raw/refs/main/OutlineScript.user.js
+// @downloadURL  https://github.com/lwqhhh/Mubu-Smart-Outline/raw/refs/main/OutlineScript.user.js
 // ==/UserScript==
 
 (function() {

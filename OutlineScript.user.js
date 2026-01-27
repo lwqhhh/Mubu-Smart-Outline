@@ -6,8 +6,8 @@
 // @author       Vachel
 // @match        https://mubu.com/*
 // @grant        none
-// @updateURL    https://github.com/lwqhhh/Mubu-Smart-Outline/raw/refs/heads/main/%E5%B9%95%E5%B8%83%E7%9B%AE%E5%BD%95_V29.user.js
-// @downloadURL  https://github.com/lwqhhh/Mubu-Smart-Outline/raw/refs/heads/main/%E5%B9%95%E5%B8%83%E7%9B%AE%E5%BD%95_V29.user.js
+// @updateURL    https://github.com/lwqhhh/Mubu-Smart-Outline/raw/refs/heads/main/OutlineScript.user.js
+// @downloadURL  https://github.com/lwqhhh/Mubu-Smart-Outline/raw/refs/heads/main/OutlineScript.user.js
 // ==/UserScript==
 
 (function() {

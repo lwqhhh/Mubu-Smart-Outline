@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         幕布目录_V29_智能清空版
 // @namespace    http://tampermonkey.net/
-// @version      29.0
+// @version      1.0.0
 // @description  新增URL监听，切换文档时自动清空旧大纲，修复内容重叠问题
 // @author       Vachel
 // @match        https://mubu.com/*

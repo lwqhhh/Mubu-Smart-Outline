@@ -3,9 +3,11 @@
 // @namespace    http://tampermonkey.net/
 // @version      29.0
 // @description  新增URL监听，切换文档时自动清空旧大纲，修复内容重叠问题
-// @author       Vachel_Gemini
+// @author       Vachel
 // @match        https://mubu.com/*
 // @grant        none
+// @updateURL    https://raw.githubusercontent.com/lwqhhh/Mubu-Smart-Outline/main/幕布目录_V29.user.js
+// @downloadURL  https://raw.githubusercontent.com/lwqhhh/Mubu-Smart-Outline/main/幕布目录_V29.user.js
 // ==/UserScript==
 
 (function() {
